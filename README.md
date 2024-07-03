@@ -1,3 +1,3 @@
 # Mini-Projects
 
-1 BMI Calculator
++ BMI Calculator
