@@ -4,3 +4,4 @@
 + QR Generator
 + Palindrome Checker
 + Simple Calculator
++ Website Blocker
