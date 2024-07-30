@@ -1,9 +1,11 @@
 # Mini-Projects
 
-+ BMI Calculator
-+ QR Generator
+
++ QR Code Generator
+<!--
 + Palindrome Checker
 + Simple Calculator
 + Website Blocker
 + Byte Code File Generator
-
++ BMI Calculator
+-->
