@@ -1,0 +1,1 @@
+Linear Regression comes under Supervised Learning model  
