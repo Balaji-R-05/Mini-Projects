@@ -1,7 +1,7 @@
 # Mini-Projects
 
-+ BMI Calculator
-+ QR Code Generator
++ BMI Calculator*
++ QR Code Generator*
 + House Price Prediction using Linear Regression
 <!--
 + Palindrome Checker
