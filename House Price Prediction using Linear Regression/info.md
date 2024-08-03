@@ -64,11 +64,11 @@ Where:
 
 ## Results
 The script will output:
-``` bash
-The predicted price for the given land area.
-The coefficient and intercept of the trained model.
-The price calculated using the theoretical formula.
-```
+
+- The predicted price for the given land area.
+- The coefficient and intercept of the trained model.
+- The price calculated using the theoretical formula.
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
